@@ -17,7 +17,9 @@ const Title = styled.figcaption`
 `;
 
 const Img = styled.img`
-  border: 2px solid black;
+border: 2px solid black;
+width: 200px;
+height: 200px;
 `;
 
 class Card extends React.Component {
